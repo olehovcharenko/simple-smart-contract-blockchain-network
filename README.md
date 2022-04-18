@@ -3,14 +3,14 @@ Simple smart contact blockhain training project
 
 How to start 
 
-1. Install all packages: npm install 
+1. Install all packages: npm install;
 2.If you haven't had your keys, goto terminal and type node keygen, it will generate key;
 3.If you want start a node, open the terminal, configure it first:
- set PORT=Your port
- set PEERS=Address 1, Address 2, Address 3
- set MY_ADDRES=ws://your.ip.and:port
- set PRIVATE_KEY=your key
- set ENABLE_MINING=true
+ set PORT=Your port;
+ set PEERS=Address 1, Address 2, Address 3;
+ set MY_ADDRES=ws://your.ip.and:port;
+ set PRIVATE_KEY=your key;
+ set ENABLE_MINING=true;
 
 node .
 
